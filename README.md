@@ -27,7 +27,7 @@ This project is a Front-End task that involves building a full working Create/Re
 
 ## Hosting
 
-The project is hosted on platforms like Vercel.
+The project is hosted on platforms like Vercel. https://tech-stack-ten.vercel.app/
 
 ## Repository
 
